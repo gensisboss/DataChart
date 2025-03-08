@@ -1,0 +1,16 @@
+.container {
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+#chartCanvas {
+    background-color: #f9f9f9;
+}
+.chart-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
